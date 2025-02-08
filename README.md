@@ -1,16 +1,15 @@
-## Hi there 👋
+# Dharma Open OS  
+🚀 **The Open-Source Implementation of Dharma Engine**  
 
-<!--
-**DharmaOpenOS/DharmaOpenOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dharma Open OS is the open-source framework built on **Dharma Engine**, a modular AI system designed for **adaptability, cognitive amplification, and user-driven intelligence**.  
 
-Here are some ideas to get you started:
+## 📜 Core Documents  
+📖 **[Open-Source Declaration](./Dharma_OpenOS_Declaration.md)** → Establishes Dharma Engine as public domain.  
+📚 **[Dharma Engine Book](./Dharma_Engine_Book.md) (Coming Soon)** → A deep dive into its concepts and applications.  
+⚙️ **Modular Components (Future Development)** → Extendable systems for real-world use.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔓 Licensing  
+This project is released under **CC0 1.0 Universal (Public Domain Dedication) + Anti-Patent Protection** to ensure universal accessibility and openness.  
+
+## 🌍 Join the Movement  
+Dharma Engine is more than software—it’s a **new way to approach AI and cognitive augmentation**. Contributions, discussions, and improvements are welcome!  
